@@ -92,7 +92,6 @@ The constrained injection, the `C` readout and the per-sequence loop sampling we
 
 ```
 p4_looped/     model.py, data.py, train.py, plots.py, notebooks/, results/
-p2_fewshot/    notebook, results and README for the expression-recognition experiment
 figures/       figures used in the report and this README
 report/        written report
 ```
